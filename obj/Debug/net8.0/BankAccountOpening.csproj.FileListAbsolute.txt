@@ -1,0 +1,14 @@
+/home/felix-omondi/development/learning/C#/BankAccountOpening/bin/Debug/net8.0/BankAccountOpening
+/home/felix-omondi/development/learning/C#/BankAccountOpening/bin/Debug/net8.0/BankAccountOpening.deps.json
+/home/felix-omondi/development/learning/C#/BankAccountOpening/bin/Debug/net8.0/BankAccountOpening.runtimeconfig.json
+/home/felix-omondi/development/learning/C#/BankAccountOpening/bin/Debug/net8.0/BankAccountOpening.dll
+/home/felix-omondi/development/learning/C#/BankAccountOpening/bin/Debug/net8.0/BankAccountOpening.pdb
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.GeneratedMSBuildEditorConfig.editorconfig
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.AssemblyInfoInputs.cache
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.AssemblyInfo.cs
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.csproj.CoreCompileInputs.cache
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.dll
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/refint/BankAccountOpening.dll
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.pdb
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/BankAccountOpening.genruntimeconfig.cache
+/home/felix-omondi/development/learning/C#/BankAccountOpening/obj/Debug/net8.0/ref/BankAccountOpening.dll
